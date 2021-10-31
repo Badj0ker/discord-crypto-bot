@@ -63,4 +63,4 @@ async def background_loop():
             pass
 
 client.loop.create_task(background_loop())
-client.run(os.getenv("YOURDISCORDTOKEN"))
+client.run(os.getenv("NTUzNjA1MDU1MDY5MTU5NDI3.XIKO4g.tdyFpurejDF_EIKXMEWH3N9pE0s"))
